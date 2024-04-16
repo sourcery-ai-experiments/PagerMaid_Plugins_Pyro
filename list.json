@@ -1099,6 +1099,16 @@
             "supported": true,
             "des_short": "carbon 代码截图",
             "des": ""
+        },
+        {
+            "name": "qu",
+            "version": "1.0",
+            "section": "chat",
+            "maintainer": "Emilia",
+            "size": "1.9 kb",
+            "supported": true,
+            "des_short": "qu 人形 @fish_quote_reply_bot",
+            "des": "人形 @fish_quote_reply_bot"
         }
     ]
 }
